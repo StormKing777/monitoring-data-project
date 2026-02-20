@@ -10,6 +10,10 @@ This project is about **Monitoring**. I used **Prometheus** to collect data from
 
 ---
 
+## Video Demonstration
+* **[YouTube: Monitoring System Health with Grafana & Prometheus](LINK_TO_YOUR_VIDEO)**
+
+---
 ## 🛠️ Implementation Steps
 1. **Prometheus Setup:** Connected Prometheus to my applications to start "scraping" metrics like CPU and Memory usage.
 2. **Data Visuals:** Built a **Grafana Dashboard** with colorful graphs.
